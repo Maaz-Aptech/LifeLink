@@ -3,9 +3,7 @@ import ContactStyling from "./assets/styling/Contact.module.css";
 
 function Contact() {
   useEffect(() => {
-    return () => {
       document.title = "Contact Us";
-    };
   }, []);
   return (
     <>
