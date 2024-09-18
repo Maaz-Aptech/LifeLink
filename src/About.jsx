@@ -3,9 +3,7 @@ import AboutStyling from "./assets/styling/About.module.css";
 
 function About() {
   useEffect(() => {
-    return () => {
       document.title = "About Us";
-    };
   }, []);
   return (
     <>

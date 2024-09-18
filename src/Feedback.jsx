@@ -3,9 +3,7 @@ import FeedbackStyling from "./assets/styling/Feedback.module.css";
 
 function Feedback() {
   useEffect(() => {
-    return () => {
       document.title = "Feedback";
-    };
   }, []);
   return (
     <>

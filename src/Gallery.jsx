@@ -3,9 +3,7 @@ import GalleryStyling from "./assets/styling/Gallery.module.css";
 
 function Gallery() {
   useEffect(() => {
-    return () => {
       document.title = "Image Gallery";
-    };
   }, []);
   return (
     <>
