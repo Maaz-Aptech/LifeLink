@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "type":"",
+        "size":"",
+        "equipments":"",
+        "specialization":"",
+        "region":"",
+        "cost":"",
+        "Availability":"",
+        "image":""
+    },
+    {
+        "id":2,
+        "type":"",
+        "size":"",
+        "equipments":"",
+        "specialization":"",
+        "region":"",
+        "cost":"",
+        "Availability":"",
+        "image":""
+    },
+    {
+        "id":3,
+        "type":"",
+        "size":"",
+        "equipments":"",
+        "specialization":"",
+        "region":"",
+        "cost":"",
+        "Availability":"",
+        "image":""
+    }
+]
